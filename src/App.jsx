@@ -44,6 +44,10 @@ export default function App() {
       margin="0 auto"
     >
       <Heading level={1}>My Profile</Heading>
+      <p style={{ fontWeight: "bold", fontSize: "1.2rem", color: "black" }}>
+        Created by David Obamehinti
+      </p>
+
 
       <Divider />
 
