@@ -45,7 +45,7 @@ export default function App() {
     >
       <Heading level={1}>My Profile</Heading>
       <p style={{ fontWeight: "bold", fontSize: "1.2rem", color: "black" }}>
-        Created by David Obamehinti
+        Created by David Obamehinti CSCE 3420
       </p>
 
 
